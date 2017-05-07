@@ -1,2 +1,2 @@
-# simple-currency-converyer
+# simple-currency-converter
 Simple Currency Converter
